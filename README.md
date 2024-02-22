@@ -1,6 +1,7 @@
 Data Science Project: Analysing the Win/Loss Ratio of the "Big 4"
 
-install requirements from poetry file
+install requirements from poetry file,
+
 run main.py file
 
 Analysing the 4 biggest sport leagues in the USA:  the Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL).
