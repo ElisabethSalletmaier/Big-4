@@ -234,8 +234,8 @@ def sports_team_performance():
      leagues are very similar (e.g. NBA-NFL 0.94 , or MLB-NBA 0.95, NFL-MLB 0.80), suggesting that teams in those leagues
      tend to perform similarly within their respective sports.
      On the opposite, for e.g. NHL-NFL (0.03) or NHl-NBA (0.02) or NHl-MLB (0.0007) the similarity in their
-     performance ratio is quite low. The p-value is below the typical significance level of 0.05, indicating statistical
-     significance. Therefore, the null hypothesis for those sport leagues can be rejected.
+     performance ratio is quite low. The p-value is below the typical significance level of 0.05, and therefore indicating that there is statistical
+     significance. Therefore, the null hypothesis for those sport leagues can be rejected. This means, although coming from the same region those teams perform differently.
 
     :return:
     """
